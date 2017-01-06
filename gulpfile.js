@@ -5,8 +5,8 @@ var gulp          = require('gulp'),
     autoprefixer  = require('gulp-autoprefixer'),
     sassdoc       = require('sassdoc')
 
-var input         = 'src/**/*.scss'
-var output        = 'public/css'
+var input         = 'src/stylesheets/scss/**/*.scss'
+var output        = 'src/stylesheets/css'
 var autoprefixerOptions = {
   browsers: ['last 2 versions', '> 5%', 'Firefox ESR']
 };
