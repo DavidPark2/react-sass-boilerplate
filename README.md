@@ -1,3 +1,21 @@
+# Tech
+- React
+- Webpack
+    - Commands - npm start, npm test, npm run build, npm run eject
+- Gulp
+    - Commands - gulp sass, gulp watch, gulp sassdoc, gulp production
+- Jest
+- Sass
+
+# Soon to be implemented
+- Redux
+- React Router
+- Possibly
+    - Immutable.js
+    - Reselect
+    - Normalizer
+    - Redux thunk
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
